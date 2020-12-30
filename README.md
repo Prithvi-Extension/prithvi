@@ -1,6 +1,6 @@
 # Prithvi
 ## Keio University (India Japan Laboratory) in collaboration with Indian Institute of Science (Center for Society and Policy) SOCIAL INNOVATION CHALLENGE 
-![Prithvi](https://github.com/Prithvi-Extension/prithvi/blob/main/details/Prithvi.jpg)
+![Prithvi](https://github.com/Prithvi-Extension/prithvi/blob/main/details/prithvi.jpg)
 
 
 Prithvi is a Google Chrome extension that performs a very simple task that has far reaching effects - when enabled, a search to buy a product returns results that are ecologically sustainable. Our Google Chrome extension, Prithvi, shows you a list of sustainable options for what you just googled. Designed to be used on searches to buy household products, we aim to help you make your life better for the health of the planet, with just one extra click. Here is what the extension offers
