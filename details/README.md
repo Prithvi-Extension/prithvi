@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/Prithvi-Extension/prithvi/blob/main/details/Prithvi.jpg)
 
-We conducted a survey - A Greener Lifestyle (Responses) - in which we found that less availability, lack of options and low awareness about sustainable alternatives are three major reasons that people do not buy ecologically friendly products. Our extension is a one stop solution to all these problems. The response we received to our idea clearly demonstrates the need for a product like ours.
+We conducted a survey - [A Greener Lifestyle Responses](https://github.com/Prithvi-Extension/prithvi/blob/main/details/A%20Greener%20Lifestyle.pdf) - in which we found that less availability, lack of options and low awareness about sustainable alternatives are three major reasons that people do not buy ecologically friendly products. Our extension is a one stop solution to all these problems. The response we received to our idea clearly demonstrates the need for a product like ours.
 
 # Flowchart
 
