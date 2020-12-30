@@ -1,0 +1,32 @@
+{
+    "manifest_version": 2,
+    "name": "Prithvi",
+    "description": "This extension shows you similar ecofriendly products!",
+    "version": "1.0",
+    "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "window.html"
+    },
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+      },
+    "permissions": [
+        "activeTab",
+        "tabs",
+        "notifications",
+        "https://*/",
+        "http://*/"
+    ],
+    "commands":{
+        "_execute_browser_action": {
+            "suggested_key": {
+              "default": "Ctrl+Shift+L",
+              "mac": "MacCtrl+Shift+L"
+            },
+            "description": "Opens window.html"
+          }
+
+    }
+}
+
