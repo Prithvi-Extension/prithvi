@@ -6,6 +6,7 @@ We conducted a survey - [A Greener Lifestyle Responses](https://github.com/Prith
 
 # Flowchart
 
+![flowchart](https://github.com/Prithvi-Extension/prithvi/blob/main/details/Flowchart.png)
 
 # Submissions
 
