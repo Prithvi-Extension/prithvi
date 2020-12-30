@@ -3,7 +3,27 @@
 ![Prithvi](https://github.com/Prithvi-Extension/prithvi/blob/main/details/Prithvi.jpg)
 
 
-Prithvi is a Google Chrome extension that performs a very simple task that has far reaching effects - when enabled, a search to buy a product returns results that are ecologically sustainable. Our Google Chrome extension, Prithvi, shows you a list of sustainable options for what you just googled. Designed to be used on searches to buy household products, we aim to help you make your life better for the health of the planet, with just one extra click. Here is what the extension offers
+Prithvi is a Google Chrome extension that performs a very simple task that has far reaching effects - when enabled, a search to buy a product returns results that are ecologically sustainable. Our Google Chrome extension, Prithvi, shows you a list of sustainable options for what you just googled. Designed to be used on searches to buy household products, we aim to help you make your life better for the health of the planet, with just one extra click. 
+
+![browser view](https://github.com/Prithvi-Extension/prithvi/blob/main/screenshots/ss2.jpeg)
+
+### Key Features
+
+1. Whenever a user searches something to buy, using keywords such as “buy”, “price” “amazon”, or something similar, Prithvi sends a notification reminding the user that green alternatives are just a click away!
+![notif](https://github.com/Prithvi-Extension/prithvi/blob/main/screenshots/ss1.jpeg)
+
+2. Our design consists of a pop-up dialog box. It displays a scrollable list of eco-friendly alternatives from various sites. The products’ name, price, image and a link to the product is displayed.
+
+![popup](https://github.com/Prithvi-Extension/prithvi/blob/main/screenshots/ss3.jpeg)
+
+3. There is also an option to search by a specific site. In our MVP, we have displayed 4 such sites, namely Ecohoy, Wudbox, Geosmin and SaveGlobe. 
+
+![by site](https://github.com/Prithvi-Extension/prithvi/blob/main/screenshots/ss4.jpeg)
+
+4. There is a search box embedded in the pop up window itself, in which the user can search for any other product too. 
+
+### Advantages
+Here is what the extension offers
 - Sustainable options of search results: Clicking on the extension displays all the sustainable options for the search just made. 
 - Pop up window: Clicking on the extension displays a new popup window with the desired result
 - Links to verified eco friendly products: The links displayed are from a trusted database of products and companies that care about the cause.
