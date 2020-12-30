@@ -2,7 +2,7 @@ function notifications(){
     chrome.notifications.create(
         {
             title:'Prithvi: A greener future',
-            message:'If you\'re planning to buy something, Greener alternatives are just a click away!',
+            message:'If you\'re planning to buy something, greener alternatives are just a click away!',
             type:'basic',
             iconUrl:'icon.png'
         }
