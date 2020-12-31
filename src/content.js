@@ -4,7 +4,7 @@ function modify_query()
     query = words.join('+');
     var keyword_list = query.split('+');
     var new_keyword_list = [];
-    var allKeys=["buy","price","cheap", "product", "shop", "sale","amazon","flipkart","myntra","purchase","ecological"];
+    var allKeys=["buy","price","cheap", "product", "shop", "sale","amazon","flipkart","myntra","purchase","ecological","online"];
     for(var i=0;i<keyword_list.length;i++)
     {
         if (!allKeys.includes(keyword_list[i])) {
