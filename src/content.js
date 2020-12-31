@@ -527,7 +527,7 @@ function go_to_price_GM(produrl,image)
 
 function end_search(title, href)
 {
-    
+    document.getElementById("web").innerHTML = "";
     var a = document.createElement('a');  
                                   
     // Create the text node for anchor element. 
