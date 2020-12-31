@@ -15,13 +15,15 @@ To see the details of our project making process, please click [here.](https://g
 
 2. Our design consists of a pop-up dialog box. It displays a scrollable list of eco-friendly alternatives from various sites. The products’ name, price, image and a link to the product is displayed.
 
+3. There is a search box embedded in the pop up window itself, in which the user can search for any other product too. 
+
 ![popup](https://github.com/Prithvi-Extension/prithvi/blob/main/screenshots/ss3.jpeg)
 
-3. There is also an option to search by a specific site. In our MVP, we have displayed 4 such sites, namely Ecohoy, Wudbox, Geosmin and SaveGlobe. 
+4. There is also an option to search by a specific site. In our MVP, we have displayed 4 such sites, namely Ecohoy, Wudbox, Geosmin and SaveGlobe. 
 
 ![by site](https://github.com/Prithvi-Extension/prithvi/blob/main/screenshots/ss4.jpeg)
 
-4. There is a search box embedded in the pop up window itself, in which the user can search for any other product too. 
+
 
 ### Advantages
 Here is what the extension offers
