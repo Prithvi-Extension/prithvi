@@ -18,7 +18,6 @@ chrome.tabs.onUpdated.addListener(function (tabID, changeInfo, tab) {
         var start = url.indexOf("q=")+2;
         var end = url.indexOf("&", start);
         quer1 = url.substring(start, end);
-        console.log(quer1);
         var allKeys=["buy","price","cheap", "product", "shop", "sale","amazon","flipkart","myntra","purchase","ecological"];
         var counter=0;
         for(i=0;i<allKeys.length;i++){
