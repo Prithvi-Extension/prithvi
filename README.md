@@ -6,7 +6,18 @@ Prithvi is a Google Chrome extension that performs a very simple task that has f
 
 To see the details of our project making process, please click [here.](https://github.com/Prithvi-Extension/prithvi/tree/main/details)
 
+### How to Upload the Extension on Chrome
+Since the extension has not been published on the Chrome Webstore yet, this is how you can upload it on Chrome and try it out for yourself!
+1. Download the ZIP file of the source code from Github [here](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fgithub.com%2FPrithvi-Extension%2Fprithvi%2Farchive%2Fmain.zip) and extract the files on your computer.
+2. Go to [chrome://extensions/](chrome://extensions/)
+3. Turn on "Developer Mode" in the top right corner of the webpage.
+4. Click on "Load unpacked" in the top left corner.
+5. Select the "src" folder in "prithvi-main" folder which you have extracted in Step 1.
+6. You have successfully added our extension! 
+7. Find Prithvi in your Extensions list in the top right corner of your browser and pin it for easy access.
+
 ![browser view](https://github.com/Prithvi-Extension/prithvi/blob/main/screenshots/ss2.jpeg)
+
 
 ### Key Features
 
