@@ -1,5 +1,4 @@
 # Prithvi
-## Keio University (India Japan Laboratory) in collaboration with Indian Institute of Science (Center for Society and Policy) SOCIAL INNOVATION CHALLENGE 
 ![Prithvi](https://github.com/Prithvi-Extension/prithvi/blob/main/details/Prithvi.jpg)
 
 
