@@ -1,4 +1,4 @@
-# Details of Our Process
+# Details
 
 ![logo](https://github.com/Prithvi-Extension/prithvi/blob/main/details/Prithvi.jpg)
 
