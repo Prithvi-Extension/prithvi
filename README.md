@@ -3,7 +3,7 @@
 ![Prithvi](https://github.com/Prithvi-Extension/prithvi/blob/main/details/Prithvi.jpg)
 
 
-Prithvi is a Google Chrome extension that performs a very simple task that has far reaching effects - when enabled, it returns ecologically sustainable alternatives for any product search. Our Google Chrome extension, Prithvi, shows you a list of sustainable options for what you just googled. Prithvi is designed to give you the best eco-friendly results for all your product searches. Our team aims to help you make your life greener and make the planet healthier, with just one extra click. 
+Prithvi is a Google Chrome extension that performs a very simple task that has far reaching consequences. It shows you a list of sustainable options for what you just googled. Prithvi is designed to give you the best eco-friendly results for all your product searches. It makes finding numerous eco-friendly alternatives much easier and faster. Our team aims to help you make your life greener and make the planet healthier, with just one extra click.
 
 To see the details of our project making process, please click [here.](https://github.com/Prithvi-Extension/prithvi/tree/main/details)
 
